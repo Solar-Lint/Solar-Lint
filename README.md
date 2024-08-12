@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Solar-Lint
+- 👀 I’m interested in TS, Node, TMA
